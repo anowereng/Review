@@ -27,7 +27,7 @@ namespace FileRead_Write
             {
                 var currentDirectory = Directory.GetCurrentDirectory();
                 //currentDirectory = @"..\..\..\.."+ currentDirectory;
-                var path = @"E:\Dev-Skill\Review\CSharpReCoded\demo_file_write.txt";
+                var path = @"H:\DEV-SKILL\Review\CSharpReCoded\demo_file_read.txt";
                 if (!File.Exists(path))
                 {
                     using (StreamWriter sw = File.CreateText(path))
