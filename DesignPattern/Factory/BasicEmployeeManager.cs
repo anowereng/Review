@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Factory
 {
-    public class EmployeeManager : IEmployeeManager
+    public class BasicEmployeeManager : IEmployeeManager
     {
         public float GetHourlyPay()
         { 
@@ -12,7 +12,7 @@ namespace Factory
         }
         public float GetBonus()
         { 
-            return 10;
+            return 5;
         }
 
     }

@@ -8,11 +8,11 @@ namespace Factory
     {
         public float GetHourlyPay()
         { 
-            return 10;
+            return 20;
         }
         public float GetBonus()
         { 
-            return 8;
+            return 16;
         }
 
     }
