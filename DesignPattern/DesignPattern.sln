@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.csproj", "{C7450BF8-3C04-4963-987A-212082A25457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Ex2_Print", "Factory_Ex2_Print\Factory_Ex2_Print.csproj", "{784415F3-7C32-43D1-BBFD-7151E74EFA17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Ex2_Print", "Factory_Ex2_Print\Factory_Ex2_Print.csproj", "{784415F3-7C32-43D1-BBFD-7151E74EFA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Ex3_Card", "Factory_Ex3_Card\Factory_Ex3_Card.csproj", "{426C48A7-C322-433E-B7E4-32E7B6896B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{784415F3-7C32-43D1-BBFD-7151E74EFA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784415F3-7C32-43D1-BBFD-7151E74EFA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784415F3-7C32-43D1-BBFD-7151E74EFA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426C48A7-C322-433E-B7E4-32E7B6896B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426C48A7-C322-433E-B7E4-32E7B6896B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426C48A7-C322-433E-B7E4-32E7B6896B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426C48A7-C322-433E-B7E4-32E7B6896B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
